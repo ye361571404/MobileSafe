@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">手机安全卫士</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
